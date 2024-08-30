@@ -1,15 +1,9 @@
-<!DOCTYPE html>
-<html>
+---
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Kryton X Script Documentation</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
 
-<body class="stackedit">
-  <div class="stackedit__html"><h1 id="kryton-x-script-documentation"><strong>Kryton X Script Documentation</strong></h1>
+---
+
+<h1 id="kryton-x-script-documentation"><strong>Kryton X Script Documentation</strong></h1>
 <h2 id="introduction"><strong>Introduction</strong></h2>
 <p>Welcome to the Kryton X Script Documentation. This document provides a detailed overview of the Kryton X executor, including its API, DLL, and injector. This documentation is designed to help developers understand how to use and integrate Kryton X into their projects for educational and testing purposes.</p>
 <h2 id="table-of-contents"><strong>Table of Contents</strong></h2>
@@ -287,7 +281,4 @@ HANDLE hProcess <span class="token operator">=</span> <span class="token functio
 <li><strong>Script Execution Failures</strong>: Verify the script code and permissions required for execution.</li>
 <li><strong>DLL Injection Problems</strong>: Check for errors in the manual mapping or thread hijacking process and ensure that the target process is compatible.</li>
 </ul>
-</div>
-</body>
 
-</html>
